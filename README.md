@@ -1,6 +1,8 @@
 # cs203s2021-activity4
 
-## DUE: by Thursday, March 11 
+## DUE: by Thursday, March 11
+
+[![Actions Status](https://github.com/allegheny-computer-science-203-s2021/activity4-Nathandloria/workflows/build/badge.svg)](https://github.com/allegheny-computer-science-203-s2021/activity4-Nathandloria/actions)
 
 ## Introduction
 
